@@ -1,17 +1,17 @@
 # Guía de uso de GitHub 🐱📓
 
-## Agregara nombre y correo personal a la configuración.
+## Agregar nombre y correo personal a la configuración.
 ```
 $ git config --global user.name “<nombre>”
 $ git config --global user.email “<email>”
 ```
 
-## Muestra un listado de Git y sus funciones.
+## Mostrar listado de Git y sus funciones.
 ```
 $ git help
 ```
 
-Para mostrar en el navegador y más a detalle de la función
+Mostrar en el navegador y más a detalle de la función
 ```
 $ git help <nombre_función>
 ```
